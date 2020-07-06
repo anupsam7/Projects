@@ -4,4 +4,4 @@
 
 ## The analysis for Ontario, Canada is done using the numbers on [Ontario's Covid-19 webpage.](https://covid-19.ontario.ca/)
 
-### For pdf files, copy the url and paste it in [nbviewer](https://nbviewer.jupyter.org/) to view it.
+
